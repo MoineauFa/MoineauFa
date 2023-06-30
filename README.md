@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning animation on maya
 - 💞️ I’m looking to collaborate on video games
-- 📫 How to reach me: idk
+- 📫 How to reach me: [DM me on](https://twitter.com/MoineauFatigant)
 
 <!---
 MoineauFa/MoineauFa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
